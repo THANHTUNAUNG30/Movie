@@ -1,0 +1,19 @@
+
+
+BaseURL = "https://api.themoviedb.org/3"
+
+Movies = "/movie/now_playing"
+
+api_key = 723c5d0e7ccb9a3f06074bda5f4680e2
+
+imageURL = "https://image.tmdb.org/t/p/w500/MOVIE_PATH"
+
+Details = "/movie/{movie_id}"
+
+Search = "/search/movie?query='key_word'&api_key='api_key'"
+
+popular = "https://api.themoviedb.org/3/movie/popular"
+
+
+https://api.themoviedb.org/3
+/movie/912649?api_key=723c5d0e7ccb9a3f06074bda5f4680e2
